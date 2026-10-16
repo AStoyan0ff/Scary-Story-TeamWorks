@@ -1,1 +1,1 @@
-Добре, че се сетих да направя README :)
+Created by : AStoyanoff & Danail 
